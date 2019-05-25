@@ -6,9 +6,9 @@ public partial class Form1 = Form
   
   public Form1()
   {
-    InitializeComponenet();
+    InitializeComponent();
     
-    //set settings to defualt
+    //set settings to default
     new Settings();
     
     //Set game speed and start timer
