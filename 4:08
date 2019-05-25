@@ -10,7 +10,7 @@ namespace Snake
     public int X { get; set; }
     public int Y { get; set; }
     
-    pulic Cicle ()
+    public Cicle ()
     {
       X = 0;
       Y = 0;
